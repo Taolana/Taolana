@@ -1,1 +1,1 @@
-I'm Taolana from [<a rel="nofollow" class="external text" href="http://ideaspot.net/world/index.html">Dave Johnston</a> - <a rel="nofollow" class="external free" href="http://ideaspot.net/world/index.html">http://ideaspot.net/world/index.html</a>, Copyrighted free use, <a href="https://commons.wikimedia.org/w/index.php?curid=1656085">Link</a>](https://commons.wikimedia.org/wiki/Animated_GIF_flags#/media/File:Animated-Flag-Madagascar.gif)
+I'm Taolana from <img href="Animated-Flag-Madagascar.gif"/>
