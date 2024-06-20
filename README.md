@@ -1,1 +1,3 @@
-I'm Taolana from <img href="Animated-Flag-Madagascar.gif"/>
+# Welcome to My Repository
+
+I'm Taolana from ![Madagascar Flag](images/Animated-Flag-Madagascar.gif)
