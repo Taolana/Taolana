@@ -1,1 +1,1 @@
-I'm Taolana from ![Madagascar Flag](Animated-Flag-Madagascar.gif)
+![Madagascar Flag](Animated-Flag-Madagascar.gif)
